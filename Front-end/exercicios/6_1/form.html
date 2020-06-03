@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Formulário de Curriculo</title>
   <link rel="stylesheet" href="style.css" />
-  <script src="script.js"></script>
+  
 </head>
 
 <body>
@@ -15,7 +15,8 @@
     <h1>Formulário de currículo</h1>
   </header>
   <form id="form" action="" method="GET">
-    <fieldset id="fieldset">
+    <fieldset id="dadosPessoais">
+      <legend>Dados Pessoais</legend>
 
       <label for="nome">Nome:</label>
       <input id="nome" type="text" maxlength="40" required="required">
@@ -33,25 +34,30 @@
       <input id="endereco" type="text" maxlength="200" required="required">
       <br>
 
-      <input id="casa" type="radio" value="casa" name="residencia" />
+      <input id="casa" type="radio" value="casa" name="residencia" required="required">
       <label for="casa">Casa</label>
-      <input id="apartamento" type="radio" value="ape" name="residencia" />
+      <input id="apartamento" type="radio" value="ape" name="residencia" required="required/>
       <label for="apartamento">Apartamento</label>
       <input id="complemento" type="text" placeholder="Complemento" />
       <br>
 
       <label for="cidade">Cidade:</label>
       <input id="cidade" type="text" maxlength="28" required="required">
+      <br>
 
       <label for="estados">Estado</label>
       <select id="estados" required="required">
-        Selecione
+        <option value="">Selecione</option>
       </select>
 
     </fieldset>
+    <fieldset id="ultimoEmprego">
+      <legend>Dados do último emprego</legend>
+      <textarea id="textArea" maxlength="1000" required="required"></textarea>
+    </fieldset>
   </form>
 
-
+  <script src="script.js"></script>
 </body>
 
 </html>

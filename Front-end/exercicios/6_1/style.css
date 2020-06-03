@@ -1,27 +1,19 @@
 * {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
+  border: green solid 2px;
 }
 
 #titulo {
   text-align: center;
-  margin: 50px;
+  margin: 1%;
 }
 
 #form {
-  max-width: 480px;
-  margin: 50px auto;
-  padding: 16px;
+  max-width: 50%;
+  margin: 2% auto;
   border: 1px solid #eaeaea;
 }
 
-#fieldset {
-  margin-bottom: 28px;
-  border: none;
-}
-
-#nome, #email, #cpf, #endereco, #cidade {
+#nome, #email, #cpf, #endereco, #cidade, #textArea{
   margin-left: 20px;
   margin: 10px;
 }

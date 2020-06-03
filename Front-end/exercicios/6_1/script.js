@@ -32,8 +32,8 @@ const stateList = [
 for(let i = 0; i < stateList.length; i++) {
   let option = document.createElement('option');
   console.log(estados)
-  option.innerText = "stateList[i]";
-  // option.innerHTML = stateList[i][0];
+  option.innerText = stateList[i][0];
+  option.value = stateList[i][1];
   estados.appendChild(option);
 
 }
