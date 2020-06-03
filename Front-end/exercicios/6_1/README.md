@@ -1,52 +1,33 @@
-Crie um <fieldset> para os seguintes dados pessoais:
+Crie outro <fieldset> para dados do seu último emprego
 
-Nome - Texto
+Resumo do currículo - TextArea
+
+Limite de 1000 caracteres
+
+Campo obrigatório
+
+Cargo - Texto
 
 Limite de 40 caracteres
 
 Campo obrigatório
 
-Email - Texto
+Descrição do cargo - Texto
 
-Limite de 50 caracteres
-
-Campo obrigatório
-
-Bonus: Utilize regex para validar o campo email.
-
-Formato esperado: texto@texto.texto.
-
-Dica: Para estudar como o regex funciona, utilize o link .
-
-CPF - Texto
-
-Limite de 11 caracteres
+Limite de 500 caracteres
 
 Campo obrigatório
 
-Endereço - Texto
+Data de início - Texto
 
-Limite de 200 caracteres
+Verificar o formato da data dd/mm/aaaa.
 
-Campo obrigatório
+O dia deve ser > 0 e <= 31.
 
-Cidade - Texto
+O mês deve ser > 0 e <= 12.
 
-Limite de 28 caracteres
+O ano não pode ser negativo.
 
-Campo obrigatório
-
-Estado - ComboBox
-
-Todos os estados do Brasil
-
-Utilize estruturas de repetição via JavaScript para gerar os <option>
+Caso alguma das condições for inválida no momento do envio do formulário, exibir mensagem de erro contextualizada.
 
 Campo obrigatório
-
-Tipo - Radio Button
-
-Casa, Apartamento
-
-Campo obrigatório
-
