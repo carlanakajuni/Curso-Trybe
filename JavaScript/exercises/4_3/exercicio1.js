@@ -6,9 +6,9 @@ let letras = "";
 
 for (let indicador = 0; indicador < n; indicador = indicador + 1) {
     letras = letras + "*";
-    console.log(letras);
+   
 }
 
 for (let indicador = 0; indicador < n; indicador++) {
-    
+    console.log(letras);    
 }
