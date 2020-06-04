@@ -13,7 +13,24 @@
   border: 1px solid #eaeaea;
 }
 
-#nome, #email, #cpf, #endereco, #cidade, #textArea{
+.fieldset {
+  padding: 30px;
+  
+}
+
+#label {
   margin-left: 20px;
   margin: 10px;
+}
+
+#resumo-curriculo, #descricao {
+  display: flex;
+  max-width: fit-content;
+}
+
+#textArea, #boxdescricao {
+  display: flex;
+  width: 80%;
+  resize: vertical;
+  max-height: 30%;
 }

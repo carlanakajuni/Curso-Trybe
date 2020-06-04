@@ -15,45 +15,52 @@
     <h1>Formulário de currículo</h1>
   </header>
   <form id="form" action="" method="GET">
-    <fieldset id="dadosPessoais">
+    <fieldset id="dadosPessoais" class="fieldset">
       <legend>Dados Pessoais</legend>
 
-      <label for="nome">Nome:</label>
+      <label for="nome" id="label">Nome:</label>
       <input id="nome" type="text" maxlength="40" required="required">
       <br>
 
-      <label for="email">Email:</label>
+      <label for="email" id="label">Email:</label>
       <input id="email" type="text" maxlength="50" required="required">
       <br>
 
-      <label for="cpf">CPF:</label>
+      <label for="cpf" id="label">CPF:</label>
       <input id="cpf" type="text" maxlength="11" required="required">
       <br>
 
-      <label for="endereco">Endereço:</label>
+      <label for="endereco" id="label">Endereço:</label>
       <input id="endereco" type="text" maxlength="200" required="required">
       <br>
 
       <input id="casa" type="radio" value="casa" name="residencia" required="required">
-      <label for="casa">Casa</label>
+      <label for="casa" id="label">Casa</label>
       <input id="apartamento" type="radio" value="ape" name="residencia" required="required/>
-      <label for="apartamento">Apartamento</label>
+      <label for="apartamento" id="label">Apartamento</label>
       <input id="complemento" type="text" placeholder="Complemento" />
       <br>
 
-      <label for="cidade">Cidade:</label>
+      <label for="cidade" id="label">Cidade:</label>
       <input id="cidade" type="text" maxlength="28" required="required">
       <br>
 
-      <label for="estados">Estado</label>
+      <label for="estados" id="label">Estado</label>
       <select id="estados" required="required">
         <option value="">Selecione</option>
       </select>
 
     </fieldset>
-    <fieldset id="ultimoEmprego">
+    <fieldset id="ultimoEmprego" class="fieldset">
       <legend>Dados do último emprego</legend>
+      
+      <label for="textArea" id="label">Resumo do curriculo</label>
       <textarea id="textArea" maxlength="1000" required="required"></textarea>
+      <br>
+      
+      <label id="descricao">Descrição do cargo</label>
+      <input id="" type="date">
+      <textarea id="boxdescricao" maxlength="500" required="required"></textarea>
     </fieldset>
   </form>
 
