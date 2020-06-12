@@ -1,5 +1,4 @@
-# Repositório criado para organizar os exercícios e conteúdos aprendidos
-# no curso fullstack da Trybe com início em 22/04/2020.
+# Repositório criado para organizar os exercícios e conteúdos aprendidos no curso fullstack da Trybe com início em 22/04/2020.
 
 *Conteúdo:*
 ----------------------------------------------------------------------
