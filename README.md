@@ -7,8 +7,8 @@
 
 Introdução - Unix & Shell
 -[x] Unix & Bash - Parte 1
--[ ] Unix & Bash - Parte 2
--[ ] Shell Script
+-[x] Unix & Bash - Parte 2
+-[x] Shell Script
 
 ###Bloco 2
 
