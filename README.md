@@ -3,68 +3,68 @@
 
 *Conteúdo:*
 ----------------------------------------------------------------------
-###Bloco 1
+### Bloco 1
 
 Introdução - Unix & Shell
--[x] Unix & Bash - Parte 1
--[x] Unix & Bash - Parte 2
--[x] Shell Script
+- [x] Unix & Bash - Parte 1
+- [x] Unix & Bash - Parte 2
+- [x] Shell Script
 
-###Bloco 2
+### Bloco 2
 
--[ ] Internet - Entendendo como ela funciona
--[ ] Git & GitHub - Entendendo os comandos
--[ ] Git & GitHub - O que é e para que serve
+- [ ] Internet - Entendendo como ela funciona
+- [ ] Git & GitHub - Entendendo os comandos
+- [ ] Git & GitHub - O que é e para que serve
 
-###Bloco 3
+### Bloco 3
 
 Introdução - HTML & CSS
--[ ] HTML & CSS - Estruturas de página
--[ ] HTML & CSS - Primeiros passos em CSS
--[ ] HTML & CSS - Seletores e posicionamento
--[ ] HTML Semântico
->Projeto
--[ ] Projeto - HTML & CSS
+- [x] HTML & CSS - Estruturas de página
+- [ ] HTML & CSS - Primeiros passos em CSS
+- [ ] HTML & CSS - Seletores e posicionamento
+- [ ] HTML Semântico
+> Projeto
+- [ ] Projeto - HTML & CSS
 
-###Bloco 4
+### Bloco 4
 
 Introdução - JavaScript
--[ ] JavaScript - Primeiros Passos
--[ ] JavaScript - Array e loop For
--[ ] JavaScript - Lógica de Programação e Algoritmos
--[ ] JavaScript - Objetos e funções
--[ ] JavaScript - DOM e seletores
--[ ] JavaScript - Trabalhando com elementos
--[ ] JavaScript - Eventos
--[ ] JavaScript - Web Storage
+- [ ] JavaScript - Primeiros Passos
+- [ ] JavaScript - Array e loop For
+- [ ] JavaScript - Lógica de Programação e Algoritmos
+- [ ] JavaScript - Objetos e funções
+- [ ] JavaScript - DOM e seletores
+- [ ] JavaScript - Trabalhando com elementos
+- [ ] JavaScript - Eventos
+- [ ] JavaScript - Web Storage
 
-###Bloco 5
->Projetos
--[ ] Projeto - Meme Generator
--[ ] Projeto - Arte com Pixels
--[ ] Projeto - Lista de tarefas
--[ ] (Bônus) Projeto - Adivinhe a cor
--[ ] (Bônus) Projeto - Carta Misteriosa
+### Bloco 5
+> Projetos
+- [ ] Projeto - Meme Generator
+- [ ] Projeto - Arte com Pixels
+- [ ] Projeto - Lista de tarefas
+- [ ] (Bônus) Projeto - Adivinhe a cor
+- [ ] (Bônus) Projeto - Carta Misteriosa
 
-###Bloco 6
+### Bloco 6
 
 Introdução - Front-End
--[ ] HTML & CSS - Forms
--[ ] Bibliotecas JavaScript e Frameworks CSS
+- [ ] HTML & CSS - Forms
+- [ ] Bibliotecas JavaScript e Frameworks CSS
 Introdução - CSS Flexbox
--[ ] CSS Flexbox - Parte 1
--[ ] CSS Flexbox - Parte 2
--[ ] CSS Responsivo - Mobile First
->Projeto
--[ ] Projeto - Página inicial do Facebook
+- [ ] CSS Flexbox - Parte 1
+- [ ] CSS Flexbox - Parte 2
+- [ ] CSS Responsivo - Mobile First
+> Projeto
+- [ ] Projeto - Página inicial do Facebook
 
-###Bloco 7
+### Bloco 7
 
--[ ] JavaScript ES6 - let, const, arrow functions e template literals
--[ ] JavaScript ES6 - Objects
--[ ] Testes unitários em JavaScript
--[ ] Testando em pequenos passos
->Projeto
--[ ] Projeto - JavaScript Testes Unitários
+- [ ] JavaScript ES6 - let, const, arrow functions e template literals
+- [ ] JavaScript ES6 - Objects
+- [ ] Testes unitários em JavaScript
+- [ ] Testando em pequenos passos
+> Projeto
+- [ ] Projeto - JavaScript Testes Unitários
 
-###Bloco 8
+### Bloco 8
