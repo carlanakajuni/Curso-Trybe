@@ -1,5 +1,4 @@
-#Repositório criado para organizar os exercícios e conteúdos aprendidos
-#no curso fullstack da Trybe com início em 22/04/2020.
+# Repositório criado para organizar os exercícios e conteúdos aprendidos no curso fullstack da Trybe com início em 22/04/2020.
 
 *Conteúdo:*
 ----------------------------------------------------------------------
@@ -19,6 +18,7 @@ Introdução - Unix & Shell
 ### Bloco 3
 
 Introdução - HTML & CSS
+
 - [x] HTML & CSS - Estruturas de página
 - [ ] HTML & CSS - Primeiros passos em CSS
 - [ ] HTML & CSS - Seletores e posicionamento
