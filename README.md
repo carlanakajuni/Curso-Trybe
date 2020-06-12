@@ -5,9 +5,9 @@
 ### Bloco 1
 
 Introdução - Unix & Shell
--[x] Unix & Bash - Parte 1
--[x] Unix & Bash - Parte 2
--[x] Shell Script
+- [x] Unix & Bash - Parte 1
+- [x] Unix & Bash - Parte 2
+- [x] Shell Script
 
 ### Bloco 2
 
@@ -18,7 +18,8 @@ Introdução - Unix & Shell
 ### Bloco 3
 
 Introdução - HTML & CSS
-- [ ] HTML & CSS - Estruturas de página
+
+- [x] HTML & CSS - Estruturas de página
 - [ ] HTML & CSS - Primeiros passos em CSS
 - [ ] HTML & CSS - Seletores e posicionamento
 - [ ] HTML Semântico
