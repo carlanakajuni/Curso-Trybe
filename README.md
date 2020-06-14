@@ -20,9 +20,9 @@ Introdução - Unix & Shell
 Introdução - HTML & CSS
 
 - [x] HTML & CSS - Estruturas de página
-- [ ] HTML & CSS - Primeiros passos em CSS
-- [ ] HTML & CSS - Seletores e posicionamento
-- [ ] HTML Semântico
+- [x] HTML & CSS - Primeiros passos em CSS
+- [x] HTML & CSS - Seletores e posicionamento
+- [x] HTML Semântico
 > Projeto
 - [ ] Projeto - HTML & CSS
 
